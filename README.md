@@ -35,6 +35,8 @@ To upload tests, goto specifed link as specified below enter test name and impor
 ![ss23](https://github.com/charan-srihari-ede/Quizzer/blob/main/screenshots/ss23.png)
 ### Adding admins
 Craete a child admins in root of realtime-database and copy the USER-UID from authentication tab, put NAME = USER-UID and VALUE = true see below for refrence.
+
+
 ![ss24](https://github.com/charan-srihari-ede/Quizzer/blob/main/screenshots/ss24.png)
 ### Database rules
 To manage users marks, for not re-update of marks after giving tests, database rules paste the contents to database-rules section.
